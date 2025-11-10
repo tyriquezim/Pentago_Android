@@ -2,7 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
     id("org.jetbrains.kotlin.plugin.serialization") version("1.8.0")
-    id("com.google.devtools.ksp") version("2.0.20-1.0.24")
+    id("com.google.devtools.ksp") version("2.1.10-1.0.31")
     id("org.jetbrains.kotlin.kapt") version("2.1.10")
     id("androidx.navigation.safeargs.kotlin") version("2.5.0")
 }
