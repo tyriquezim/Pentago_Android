@@ -59,7 +59,7 @@
 
     <string name="rule_three">3. If a player places a marble and it results in an alignment of five for themselves, they are not required to rotate a grid and thus become the winner of the match.</string>
 
-    <string name="rule_four">4. A game results in a draw if a the entire board gets filled without any of the players managing to align five of their marbles in a row.</string>
+    <string name="rule_four">4. A game results in a draw if the entire board gets filled without any of the players managing to align five of their marbles in a row.</string>
 
     <string name="rule_five">5. A game also results in a draw if, after a rotation, both players obtain an alignment of five of their own marbles simultaneously.</string>
 
