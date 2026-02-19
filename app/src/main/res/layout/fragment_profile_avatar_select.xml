@@ -31,7 +31,7 @@
                         android:id="@+id/default_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/default_avatar" />
+                        android:src="@drawable/default_pic" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -66,7 +66,7 @@
                         android:id="@+id/android_robot_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/android_robot_profile_picture" />
+                        android:src="@drawable/android" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -101,7 +101,7 @@
                         android:id="@+id/sunset_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/tree_profile_picture" />
+                        android:src="@drawable/tree" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -136,7 +136,7 @@
                         android:id="@+id/coastline_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/beach_profile_picture" />
+                        android:src="@drawable/beach" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -171,7 +171,7 @@
                         android:id="@+id/mountain_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/mountain_profile_picture" />
+                        android:src="@drawable/mountain" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -206,7 +206,7 @@
                         android:id="@+id/desert_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/desert_profile_picture" />
+                        android:src="@drawable/desert" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -241,7 +241,7 @@
                         android:id="@+id/lion_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/lion_profile_picture" />
+                        android:src="@drawable/lion" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -276,7 +276,7 @@
                         android:id="@+id/tiger_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/tiger_profile_picture" />
+                        android:src="@drawable/tiger" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -311,7 +311,7 @@
                         android:id="@+id/giraffe_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/giraffe_profile_picture" />
+                        android:src="@drawable/giraffe" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -346,7 +346,7 @@
                         android:id="@+id/ostrich_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/ostrich_profile_picture" />
+                        android:src="@drawable/ostrich" />
 
                 </androidx.cardview.widget.CardView>
 
@@ -381,7 +381,7 @@
                         android:id="@+id/zebra_avatar_image_view"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/zebra_profile_picture" />
+                        android:src="@drawable/zebra" />
 
                 </androidx.cardview.widget.CardView>
 
